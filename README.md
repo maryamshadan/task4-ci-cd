@@ -17,21 +17,20 @@ The pipeline builds and Dockerizes both the **Task 1 backend** and **Task 3 fron
 ## 📸 Screenshots
 
 ### backend-docker-build
-![backend-docker-build](screenshots\backend-docker-build.png)
+![backend-docker-build](screenshots/backend-docker-build.png)
 *Screenshot of backend-docker-build – 20 Oct 2025*
 
 ### backend-pipeline
-![backend-pipeline](screenshots\backend-pipeline.png)
+![backend-pipeline](screenshots/backend-pipeline.png)
 *Screenshot of backend-pipeline – 20 Oct 2025*
 
 ### frontend-docker-build
-![frontend-docker-build](screenshots\frontend-docker-build.png)
+![frontend-docker-build](screenshots/frontend-docker-build.png)
 *Screenshot of frontend-docker-build – 20 Oct 2025*
 
 ### frontend-pipeline
-![frontend-pipeline](screenshots\frontend-pipeline.png)
+![frontend-pipeline](screenshots/frontend-pipeline.png)
 *Screenshot of frontend-pipeline – 20 Oct 2025*
-
 
 ---
 
