@@ -16,19 +16,21 @@ The pipeline builds and Dockerizes both the **Task 1 backend** and **Task 3 fron
 
 ## 📸 Screenshots
 
-### Backend CI/CD Pipeline
-![Backend Pipeline](screenshots/backend-pipeline.png)
-*Backend pipeline showing build, tests, and Docker image creation � 20 Oct 2025*
+### backend-docker-build
+![backend-docker-build](screenshots\backend-docker-build.png)
+*Screenshot of backend-docker-build – 20 Oct 2025*
 
-![Backend Build & Docker](screenshots/backend-build-docker.png)
-*Backend build, tests, and Docker image creation � 20 Oct 2025*
+### backend-pipeline
+![backend-pipeline](screenshots\backend-pipeline.png)
+*Screenshot of backend-pipeline – 20 Oct 2025*
 
-### Frontend CI/CD Pipeline
-![Frontend Pipeline](screenshots/frontend-pipeline.png)
-*Frontend pipeline showing build, tests, and Docker image creation � 20 Oct 2025*
+### frontend-docker-build
+![frontend-docker-build](screenshots\frontend-docker-build.png)
+*Screenshot of frontend-docker-build – 20 Oct 2025*
 
-![Frontend Build & Docker](screenshots/frontend-build-docker.png)
-*Frontend build, tests, and Docker image creation � 20 Oct 2025*
+### frontend-pipeline
+![frontend-pipeline](screenshots\frontend-pipeline.png)
+*Screenshot of frontend-pipeline – 20 Oct 2025*
 
 
 ---
@@ -47,3 +49,4 @@ The pipeline builds and Dockerizes both the **Task 1 backend** and **Task 3 fron
 ## 👤 Author
 
 **[Your Name]**  
+
